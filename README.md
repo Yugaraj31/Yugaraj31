@@ -1,4 +1,4 @@
-Hi 👋 My name is Yugaraj
+Hi 👋 My name is rexlin
 .Net Full Stack Developer
 
 Hello there! 👋 I'm Yugaraj R K, a passionate and creative .Net Full Stack Developer with a fresh perspective on Full Stack development. As a recent graduate in BE - ECE , I am eager to embark on my journey in the dynamic world of technology.
