@@ -1,27 +1,50 @@
-Hi 👋 My name is rexlin
-.Net Full Stack Developer
+Hi 👋 My self Yugaraj R K
+.NET Full Stack Developer
 
-Hello there! 👋 I'm Yugaraj R K, a passionate and creative .Net Full Stack Developer with a fresh perspective on Full Stack development. As a recent graduate in BE - ECE , I am eager to embark on my journey in the dynamic world of technology.
+Hello there! 👋 I'm Yugaraj R K, a passionate and results-driven .NET Full Stack Developer with 3+ years of experience building scalable web applications across finance and healthcare domains.
 
-🌍  I'm based in india
-✉️  You can contact me at rrexlin9@gmail.com
-🧠  I'm learning Spring Boot### Skills
+💼 I specialize in developing end-to-end applications using modern technologies and delivering high-performance, secure, and user-friendly solutions.
+
+🌍 I'm based in India
+✉️ You can contact me at yugarajkumar31@gmail.com
+
+🧠 Currently exploring and improving skills in Cloud, System Design, and Advanced Backend Development
+
+🚀 Skills
+
 💻 Technical Skills:
 
-Proficient in HTML, CSS, and JavaScript.
-Familiar with modern front-end frameworks such as React.
-Basic understanding of UI/UX principles.
-Keen eye for design details and aesthetics.
-🌐 Projects:
-During my academic journey, I undertook projects that honed my skills and showcased my ability to bring ideas to life. One notable project involves Build a Instagram clone and Dashboard in react js. These experiences have equipped me with practical knowledge and a strong foundation in front-end development.
+Frontend:
+React.js, Angular, Next.js, Bootstrap, Material-UI
 
+Backend:
+C#, ASP.NET, ASP.NET Core, .NET Web API
 
+Databases:
+Oracle, PostgreSQL, SQL Server, MongoDB
 
-Skills
-Reactjs Java JavaScript HTML5 CSS3 Sass Bootstrap Oracle MySQL Illustrator XD Figma Spring Boot Jquery Inkscape Blender
+Cloud & DevOps:
+AWS (EC2, S3), Docker, CI/CD
 
+Tools & Others:
+Git, GitHub, Postman, Swagger
 
+🌐 Projects & Experience
 
-Social Media
+🔹 Built and maintained treasury reporting systems for real-time cash flow tracking
+🔹 Developed healthcare dashboards with live patient monitoring using SignalR
+🔹 Created eCommerce and Hospital Management Systems
+🔹 Worked on API integrations, real-time data processing, and automation
+🔹 Optimized database queries and improved system performance
+🔹 Migrated legacy systems to modern, scalable applications
 
-   
+🤝 What I Bring
+
+✔ Strong problem-solving mindset
+✔ Real-world project experience
+✔ Client interaction & support (L1 handling)
+✔ Focus on performance, scalability, and clean code
+
+🌐 Social Media
+LinkedIn: https://linkedin.com/in/yuga-raj-3b4505213
+GitHub: https://github.com/Yugaraj31
